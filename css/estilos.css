@@ -1,0 +1,44 @@
+.mi-nav-logo{
+    height: 40px;
+    width: auto;
+}
+
+.jumbotron{
+    background-color: yellow;
+    color: black;
+    margin-top: 40px;
+}
+
+.mi-img-carousel{
+    height: 400px;
+    object-fit: cover;
+}
+
+footer{
+    padding: 10px 10px 0 10px;
+    background-color: green;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 10px;
+    color: aliceblue;
+    text-align: center;
+}
+
+footer .row{
+    margin: 0;
+}
+
+footer a{
+    color: aliceblue;
+}
+
+.mi-footer-address-icon{
+    padding-right: 16px;
+}
+
+.mi-card-spa{
+    flex: 1 200px;
+    margin: 8px 0px 0px;
+}
